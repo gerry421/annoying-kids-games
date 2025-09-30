@@ -1,9 +1,9 @@
-poki.com
-crazygames.com
-coolmathgames.com
-addictinggames.com
-miniclip.com
-agame.com
-y8.com
-kongregate.com
-newgrounds.com
+0.0.0.0 poki.com
+0.0.0.0 crazygames.com
+0.0.0.0 coolmathgames.com
+0.0.0.0 addictinggames.com
+0.0.0.0 miniclip.com
+0.0.0.0 agame.com
+0.0.0.0 y8.com
+0.0.0.0 kongregate.com
+0.0.0.0 newgrounds.com
