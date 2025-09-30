@@ -7,3 +7,5 @@
 0.0.0.0 y8.com
 0.0.0.0 kongregate.com
 0.0.0.0 newgrounds.com
+# Careful with this one it will block some useful things but a lot of the kids games are on this domain.
+0.0.0.0 sites.google.com
