@@ -72,7 +72,6 @@
 0.0.0.0 surviv.io
 0.0.0.0 moomoo.io
 0.0.0.0 krunker.io
-0.0.0.0 www.krunker.io
 0.0.0.0 skribbl.io
 0.0.0.0 shellshock.io
 0.0.0.0 zombs.io
@@ -139,7 +138,6 @@
 # Google Sites (used for unblocked game collections)
 # Careful with this one it will block some useful things but a lot of the kids games are on this domain.
 0.0.0.0 sites.google.com
-0.0.0.0 sites.google.com/view/games-unblockedd/fun-games
 
 # Other Popular Game Sites
 0.0.0.0 nitrome.com
