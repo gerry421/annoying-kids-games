@@ -1,12 +1,164 @@
+# Popular Gaming Portals
 0.0.0.0 poki.com
+0.0.0.0 www.poki.com
 0.0.0.0 crazygames.com
+0.0.0.0 www.crazygames.com
 0.0.0.0 coolmathgames.com
+0.0.0.0 www.coolmathgames.com
 0.0.0.0 addictinggames.com
+0.0.0.0 www.addictinggames.com
 0.0.0.0 miniclip.com
+0.0.0.0 www.miniclip.com
 0.0.0.0 agame.com
+0.0.0.0 www.agame.com
 0.0.0.0 y8.com
+0.0.0.0 www.y8.com
 0.0.0.0 kongregate.com
+0.0.0.0 www.kongregate.com
 0.0.0.0 newgrounds.com
+0.0.0.0 www.newgrounds.com
+0.0.0.0 armorgames.com
+0.0.0.0 www.armorgames.com
+0.0.0.0 gamesfreak.net
+0.0.0.0 www.gamesfreak.net
+0.0.0.0 gamesgames.com
+0.0.0.0 www.gamesgames.com
+0.0.0.0 kizi.com
+0.0.0.0 www.kizi.com
+0.0.0.0 friv.com
+0.0.0.0 www.friv.com
+0.0.0.0 mousebreaker.com
+0.0.0.0 www.mousebreaker.com
+0.0.0.0 notdoppler.com
+0.0.0.0 www.notdoppler.com
+0.0.0.0 silvergames.com
+0.0.0.0 www.silvergames.com
+0.0.0.0 lagged.com
+0.0.0.0 www.lagged.com
+0.0.0.0 iogames.space
+0.0.0.0 www.iogames.space
+0.0.0.0 girlsgogames.com
+0.0.0.0 www.girlsgogames.com
+
+# Unblocked Games Sites (designed to bypass school filters)
+0.0.0.0 unblockedgames66.com
+0.0.0.0 www.unblockedgames66.com
+0.0.0.0 unblockedgames77.com
+0.0.0.0 www.unblockedgames77.com
+0.0.0.0 unblockedgames24h.com
+0.0.0.0 www.unblockedgames24h.com
+0.0.0.0 unblockedgames666.com
+0.0.0.0 www.unblockedgames666.com
+0.0.0.0 unblockedgamespod.com
+0.0.0.0 www.unblockedgamespod.com
+0.0.0.0 unblockedgames76.io
+0.0.0.0 www.unblockedgames76.io
+0.0.0.0 unblockedgames333.com
+0.0.0.0 www.unblockedgames333.com
+0.0.0.0 unblocked-games.s3.amazonaws.com
+0.0.0.0 hooda-math.com
+0.0.0.0 www.hooda-math.com
+0.0.0.0 hoodamath.com
+0.0.0.0 www.hoodamath.com
+0.0.0.0 funblockedgames.com
+0.0.0.0 www.funblockedgames.com
+0.0.0.0 mills-eagles.com
+0.0.0.0 www.mills-eagles.com
+
+# IO Games
+0.0.0.0 agar.io
+0.0.0.0 slither.io
+0.0.0.0 diep.io
+0.0.0.0 surviv.io
+0.0.0.0 moomoo.io
+0.0.0.0 krunker.io
+0.0.0.0 www.krunker.io
+0.0.0.0 skribbl.io
+0.0.0.0 shellshock.io
+0.0.0.0 zombs.io
+0.0.0.0 starve.io
+0.0.0.0 wings.io
+0.0.0.0 gats.io
+0.0.0.0 splix.io
+0.0.0.0 powerline.io
+0.0.0.0 hole.io
+0.0.0.0 wormate.io
+0.0.0.0 deeeep.io
+0.0.0.0 wilds.io
+0.0.0.0 paper-io.com
+0.0.0.0 www.paper-io.com
+
+# Multiplayer Battle Royale and Action Games
+0.0.0.0 1v1.lol
+0.0.0.0 www.1v1.lol
+0.0.0.0 ev.io
+0.0.0.0 venge.io
+0.0.0.0 shellshockers.com
+0.0.0.0 www.shellshockers.com
+0.0.0.0 buildroyale.io
+0.0.0.0 zombsroyale.io
+
+# Flash Game Archives and Retro Sites
+0.0.0.0 bluemaxima.org
+0.0.0.0 www.bluemaxima.org
+0.0.0.0 flasharch.com
+0.0.0.0 www.flasharch.com
+0.0.0.0 flashgames247.com
+0.0.0.0 www.flashgames247.com
+0.0.0.0 arcadeprehistoric.com
+0.0.0.0 www.arcadeprehistoric.com
+
+# Math and Educational Game Sites (often used as "educational" covers)
+0.0.0.0 mathplayground.com
+0.0.0.0 www.mathplayground.com
+0.0.0.0 funbrain.com
+0.0.0.0 www.funbrain.com
+0.0.0.0 coolmath.com
+0.0.0.0 www.coolmath.com
+0.0.0.0 coolmath4kids.com
+0.0.0.0 www.coolmath4kids.com
+
+# Puzzle and Casual Games
+0.0.0.0 puzzlegames.com
+0.0.0.0 www.puzzlegames.com
+0.0.0.0 freeonlinegames.com
+0.0.0.0 www.freeonlinegames.com
+0.0.0.0 primarygames.com
+0.0.0.0 www.primarygames.com
+0.0.0.0 games.co.uk
+0.0.0.0 www.games.co.uk
+0.0.0.0 andkon.com
+0.0.0.0 www.andkon.com
+
+# Sports Games Sites
+0.0.0.0 agame.com
+0.0.0.0 www.agame.com
+0.0.0.0 soccergames.io
+0.0.0.0 www.soccergames.io
+0.0.0.0 basketballlegends.io
+0.0.0.0 www.basketballlegends.io
+
+# Google Sites (used for unblocked game collections)
 # Careful with this one it will block some useful things but a lot of the kids games are on this domain.
 0.0.0.0 sites.google.com
 0.0.0.0 sites.google.com/view/games-unblockedd/fun-games
+
+# Other Popular Game Sites
+0.0.0.0 nitrome.com
+0.0.0.0 www.nitrome.com
+0.0.0.0 tinytap.com
+0.0.0.0 www.tinytap.com
+0.0.0.0 gamesbutler.com
+0.0.0.0 www.gamesbutler.com
+0.0.0.0 bigfishgames.com
+0.0.0.0 www.bigfishgames.com
+0.0.0.0 bgames.com
+0.0.0.0 www.bgames.com
+0.0.0.0 maxgames.com
+0.0.0.0 www.maxgames.com
+0.0.0.0 twoplayergames.org
+0.0.0.0 www.twoplayergames.org
+0.0.0.0 playretrogames.com
+0.0.0.0 www.playretrogames.com
+0.0.0.0 playclassic.games
+0.0.0.0 www.playclassic.games
