@@ -131,8 +131,6 @@
 0.0.0.0 www.andkon.com
 
 # Sports Games Sites
-0.0.0.0 agame.com
-0.0.0.0 www.agame.com
 0.0.0.0 soccergames.io
 0.0.0.0 www.soccergames.io
 0.0.0.0 basketballlegends.io
