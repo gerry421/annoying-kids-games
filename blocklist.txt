@@ -1,3 +1,18 @@
+coolmathgames.com
+www.coolmathgames.com
+poki.com
+poki.de
+crazygames.com
+www.crazygames.com
+kongregate.com
+www.kongregate.com
+armorgames.com
+hoodamath.com
+y8.com
+miniclip.com
+miniplay.com
+addictinggames.com
+
 # Popular Gaming Portals
 0.0.0.0 poki.com
 0.0.0.0 www.poki.com
