@@ -1,17 +1,56 @@
-coolmathgames.com
-www.coolmathgames.com
-poki.com
-poki.de
-crazygames.com
-www.crazygames.com
-kongregate.com
-www.kongregate.com
-armorgames.com
-hoodamath.com
-y8.com
-miniclip.com
-miniplay.com
-addictinggames.com
+# --- Observed GitHub Game Repositories (From your logs) ---
+0.0.0.0 tbg95.github.io
+0.0.0.0 slope-game.github.io
+
+# --- Expanded GitHub Game Repositories (Common variants) ---
+0.0.0.0 3kh0.github.io
+0.0.0.0 3kh0-assets.github.io
+0.0.0.0 math-study.github.io
+0.0.0.0 geometry-dash.github.io
+0.0.0.0 slopegameio.github.io
+0.0.0.0 unblocked-games.github.io
+0.0.0.0 ubg100.github.io
+0.0.0.0 sz-games.github.io
+0.0.0.0 tylerpalko.github.io
+0.0.0.0 shadowgmes.github.io
+
+# --- Popular Web Game Portals ---
+0.0.0.0 coolmathgames.com
+0.0.0.0 www.coolmathgames.com
+0.0.0.0 edit.coolmathgames.com
+0.0.0.0 poki.com
+0.0.0.0 www.poki.com
+0.0.0.0 crazygames.com
+0.0.0.0 www.crazygames.com
+0.0.0.0 kongregate.com
+0.0.0.0 www.kongregate.com
+0.0.0.0 armorgames.com
+0.0.0.0 www.armorgames.com
+0.0.0.0 hoodamath.com
+0.0.0.0 www.hoodamath.com
+0.0.0.0 y8.com
+0.0.0.0 www.y8.com
+0.0.0.0 miniclip.com
+0.0.0.0 www.miniclip.com
+0.0.0.0 miniplay.com
+0.0.0.0 addictinggames.com
+
+# --- Common Web Proxies & Circumvention Tools ---
+# These are often used to bypass filters to reach game sites
+0.0.0.0 croxyproxy.com
+0.0.0.0 www.croxyproxy.com
+0.0.0.0 kproxy.com
+0.0.0.0 www.kproxy.com
+0.0.0.0 4everproxy.com
+0.0.0.0 www.4everproxy.com
+0.0.0.0 hidemyass.com
+0.0.0.0 www.hidemyass.com
+0.0.0.0 proxysite.com
+0.0.0.0 www.proxysite.com
+0.0.0.0 holyubofficial.net
+0.0.0.0 titaniumnetwork.org
+0.0.0.0 incog.dev
+
 
 # Popular Gaming Portals
 0.0.0.0 poki.com
