@@ -2,6 +2,7 @@
 
 
 # --- Observed GitHub Game Repositories (From your logs) ---
+0.0.0.0 1games.io
 0.0.0.0 tbg95.github.io
 0.0.0.0 slope-game.github.io
 0.0.0.0 steampowered.com
