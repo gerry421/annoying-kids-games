@@ -1,27 +1,40 @@
-
 # 1) Explicit gaming
-kotaku.com
-polygon.com
-www.polygon.com
-www.videogameschronicle.com
+0.0.0.0 poki.com
+0.0.0.0 www.poki.com
+0.0.0.0 kotaku.com
+0.0.0.0 www.kotaku.com
+0.0.0.0 polygon.com
+0.0.0.0 www.polygon.com
+0.0.0.0 videogameschronicle.com
+0.0.0.0 www.videogameschronicle.com
 
-# 2) Gaming/entertainment adjacency
-gizmodo.com
-lifehacker.com
-mashable.com
-variety.com
-rollingstone.com
-www.rollingstone.com
-www.billboard.com
-www.vanityfair.com
-www.newyorker.com
-www.theverge.com
+# 2) Gaming / entertainment adjacency
+0.0.0.0 gizmodo.com
+0.0.0.0 www.gizmodo.com
+0.0.0.0 lifehacker.com
+0.0.0.0 www.lifehacker.com
+0.0.0.0 mashable.com
+0.0.0.0 www.mashable.com
+0.0.0.0 variety.com
+0.0.0.0 www.variety.com
+0.0.0.0 rollingstone.com
+0.0.0.0 www.rollingstone.com
+0.0.0.0 billboard.com
+0.0.0.0 www.billboard.com
+0.0.0.0 vanityfair.com
+0.0.0.0 www.vanityfair.com
+0.0.0.0 newyorker.com
+0.0.0.0 www.newyorker.com
+0.0.0.0 theverge.com
+0.0.0.0 www.theverge.com
 
 # 3) Social / algorithmic time sinks
-www.reddit.com
-www.youtube.com
-www.facebook.com
-
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
 
 
 # --- Observed GitHub Game Repositories (From your logs) ---
